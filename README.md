@@ -1,0 +1,3 @@
+#### trying machine learning for the first time
+
+i'm following a google developers tutorial, the link is in classifier.py. I'm also trying to wonder around, see what I can do without the tutorial, but it's pretty basic up to now...
